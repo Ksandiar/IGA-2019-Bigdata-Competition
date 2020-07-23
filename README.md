@@ -1,5 +1,5 @@
 # IGA-2020-Bigdata-Competition
-Source Codes of IGA 2020 Bigdata Competition (CTR Prediction)
+IGA 2020 Bigdata Competition (CTR Prediction)
 
 Team 오하이오
 
