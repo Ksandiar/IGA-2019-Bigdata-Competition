@@ -1,5 +1,5 @@
 # IGA-2020-Bigdata-Competition
-IGA 2020 Bigdata Competition (CTR Prediction)
+IGA 2020 Bigdata Competition (CTR Prediction) 최우수상 
 
 Team 오하이오
 
